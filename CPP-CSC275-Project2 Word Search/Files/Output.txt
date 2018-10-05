@@ -1,0 +1,10 @@
+hello : 0
+there : 1
+I : 0
+will : 1
+be : 1
+submitting : 0
+my : 0
+assignment : 0
+this : 0
+week : 0
